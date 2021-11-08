@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+}
+
+body > div {
+    display: inline-block;
+    width: 49%;
+}
+
+h1 {
+    font-family: "Franklin Gothic Medium", sans-serif;
+    color: crimson;
+    font-style: italic;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+    color: #333;
+}
+
+a {
+    display: block;
+}
+
+img {
+    border-style: dashed;
+}
